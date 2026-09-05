@@ -1,0 +1,36 @@
+# ShopEase - E-Commerce Product Website
+
+A semantic HTML5 e-commerce website built as a capstone project.
+
+## Features
+
+- Semantic HTML5
+- Header & Navigation
+- Hero Banner
+- Product Categories
+- Featured Products
+- Product Details
+- Product Specifications
+- Product Gallery
+- Customer Reviews
+- Shipping Information
+- FAQ
+- Contact Section
+- Footer
+
+## Technologies Used
+
+- HTML5
+
+## Future Improvements
+
+- Responsive CSS
+- JavaScript Shopping Cart
+- Product Search
+- User Login
+- Payment Integration
+- MERN Stack Backend
+
+## Author
+
+Your Name
